@@ -1,4 +1,7 @@
+
 # Applied Data Science Capstone
+
+![Intro Slide](https://github.com/user-attachments/assets/fd0cb380-837f-49c4-bd9e-a6ad944dc975)
 
 ## Project scenario
 
@@ -30,3 +33,6 @@ Category: GitHub
 GitHub
 Category: Powerpoint
 Powerpoint
+
+
+![fail](https://github.com/user-attachments/assets/4dfabf35-5968-4619-87c9-c2c1b42891fe)
